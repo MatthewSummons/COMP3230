@@ -1,0 +1,78 @@
+0 Threads:
+Average Time: 5.039 s
+Average Achieved Toks/s: 50.959925
+Average User Time: 5.004 s
+Average System Time: 0.087 s
+User/System Time Ratio: 57.197
+1 Threads:
+Average Time: 5.982 s
+Average Achieved Toks/s: 42.942074
+Average User Time: 5.873 s
+Average System Time: 0.275 s
+User/System Time Ratio: 21.344
+2 Threads:
+Average Time: 3.533 s
+Average Achieved Toks/s: 72.803942
+Average User Time: 5.923 s
+Average System Time: 0.277 s
+User/System Time Ratio: 21.401
+4 Threads:
+Average Time: 2.230 s
+Average Achieved Toks/s: 115.132225
+Average User Time: 6.088 s
+Average System Time: 0.327 s
+User/System Time Ratio: 18.635
+6 Threads:
+Average Time: 1.981 s
+Average Achieved Toks/s: 129.588141
+Average User Time: 6.703 s
+Average System Time: 0.465 s
+User/System Time Ratio: 14.421
+8 Threads:
+Average Time: 1.772 s
+Average Achieved Toks/s: 144.645393
+Average User Time: 7.157 s
+Average System Time: 0.504 s
+User/System Time Ratio: 14.213
+10 Threads:
+Average Time: 1.577 s
+Average Achieved Toks/s: 162.537196
+Average User Time: 7.361 s
+Average System Time: 0.614 s
+User/System Time Ratio: 11.985
+12 Threads:
+Average Time: 1.522 s
+Average Achieved Toks/s: 168.613812
+Average User Time: 8.266 s
+Average System Time: 0.707 s
+User/System Time Ratio: 11.698
+16 Threads:
+Average Time: 1.473 s
+Average Achieved Toks/s: 174.171445
+Average User Time: 8.554 s
+Average System Time: 1.036 s
+User/System Time Ratio: 8.257
+18 Threads:
+Average Time: 1.472 s
+Average Achieved Toks/s: 174.275722
+Average User Time: 9.358 s
+Average System Time: 1.285 s
+User/System Time Ratio: 7.284
+20 Threads:
+Average Time: 1.550 s
+Average Achieved Toks/s: 166.034421
+Average User Time: 10.506 s
+Average System Time: 1.451 s
+User/System Time Ratio: 7.241
+24 Threads:
+Average Time: 1.539 s
+Average Achieved Toks/s: 166.530864
+Average User Time: 10.884 s
+Average System Time: 2.166 s
+User/System Time Ratio: 5.025
+32 Threads:
+Average Time: 1.718 s
+Average Achieved Toks/s: 149.168376
+Average User Time: 12.478 s
+Average System Time: 4.316 s
+User/System Time Ratio: 2.891
